@@ -1,0 +1,1 @@
+export default function Terms(){return(<main className='container py-12'><h1 className='text-3xl font-bold mb-2'>Terms</h1><p className='text-neutral-400'>Use responsibly. No chargebacks for delivered content.</p></main>)}

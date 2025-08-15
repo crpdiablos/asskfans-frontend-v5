@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { --bg: #0a0a0a; --fg: #fafafa; --muted: #9ca3af; }
+html, body, #__next { height: 100%; }
+body { background: var(--bg); color: var(--fg); }
+a { text-decoration: underline; }
+.container { max-width: 1100px; margin: 0 auto; padding: 1rem; }
+.card { background:#0f0f10; border:1px solid #222; border-radius:1rem; padding:1.25rem; }
+.btn { background:white; color:black; padding:.75rem 1rem; border-radius:.75rem; font-weight:600; }
+.btn:hover { opacity:.9; }
+.btn:active { opacity:.85; }
+.badge { font-size:.75rem; border:1px solid #333; padding:.15rem .5rem; border-radius:.5rem; color:#a3a3a3; }
+input, select { background:#121212; border:1px solid #2a2a2a; border-radius:.75rem; padding:.6rem .8rem; }
+label { color:#e5e5e5; font-size:.9rem; }

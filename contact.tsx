@@ -1,0 +1,1 @@
+export default function Contact(){return(<main className='container py-12'><h1 className='text-3xl font-bold mb-2'>Contact</h1><p className='text-neutral-400'>Email <a href='mailto:owner@asskfans.com'>owner@asskfans.com</a></p></main>)}

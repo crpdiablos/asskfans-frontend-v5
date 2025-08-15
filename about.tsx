@@ -1,0 +1,1 @@
+export default function About(){return(<main className='container py-12'><h1 className='text-3xl font-bold mb-2'>About</h1><p className='text-neutral-400'>AsskFans is the official tipping spot for the Ass King.</p></main>)}

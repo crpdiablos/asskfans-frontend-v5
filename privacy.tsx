@@ -1,0 +1,1 @@
+export default function Privacy(){return(<main className='container py-12'><h1 className='text-3xl font-bold mb-2'>Privacy</h1><p className='text-neutral-400'>Payments processed by Stripe and PayPal. We store the minimum necessary.</p></main>)}
